@@ -1,5 +1,7 @@
 # Expo SDK 58: `expo-doctor` recommends Jest 29 while `jest-expo@58` depends on Jest 30
 
+## **THIS REPO IS ARCHIVED**
+
 ## Summary
 
 On Expo SDK 58, `npx expo-doctor` and `npx expo install --check` recommend `jest ~29.7.0` and `@types/jest 29.5.14`. However, `jest-expo@58.0.11` depends on Jest 30 packages (`@jest/globals ^30.0.0`, `jest-environment-jsdom ^30.0.0`).
