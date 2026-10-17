@@ -31,7 +31,9 @@ In both setups, the smoke test passes.
 - `expo-doctor`: 1.21.5
 - Recorded: 2026-10-16
 
-Full `npx expo-env-info` output is in the issue linked at the bottom.
+## Related issue
+
+- See #51722
 
 ## Steps to reproduce
 
