@@ -33,7 +33,9 @@ In both setups, the smoke test passes.
 
 ## Related issue
 
-- See #51722
+- See [#51722](https://github.com/expo/expo/issues/51722)
+
+- **Fixed on 2026-10-17**
 
 ## Steps to reproduce
 
